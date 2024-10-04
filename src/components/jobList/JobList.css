@@ -1,0 +1,22 @@
+.job-list-container {
+  padding: 20px;
+}
+
+.jobList {
+  font-size: 1.5rem;
+  color: #a1d219;
+  margin-top: 20px;
+}
+
+.bookmarked-job {
+  background-color: #e8f5e9;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  h2 {
+    font-size: 1.2rem;
+  }
+}
